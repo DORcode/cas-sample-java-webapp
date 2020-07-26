@@ -1,0 +1,6 @@
+mvn clean package jetty:run-forked
+
+http://localhost:9080/sample
+and
+
+https://localhost:9443/sample
