@@ -34,6 +34,10 @@
             <param-name>serverName</param-name>
             <param-value>http://mmoayyed.unicof.net:8380</param-value>
         </init-param>
+<!--        <init-param>-->
+<!--            <param-name>ignoreUrlPatternType</param-name>-->
+<!--            <param-value>com.wangsaichao.cas.config.SimpleUrlPatternMatcherStrategy</param-value>-->
+<!--        </init-param>-->
     </filter>
 
     <filter>
